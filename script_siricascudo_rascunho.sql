@@ -1,4 +1,4 @@
---  SiriCascudoDB
+--  SiriCascudoDB - Rascunho do projeto desenvolvido durante as aulas disponibilizadas pelo professor
 create database SiriCascudoDB;
 use SiriCascudoDB;
 

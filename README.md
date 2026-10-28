@@ -78,3 +78,8 @@ Para executar a suíte de testes do **SiriCascudoDB**:
 3. Conecte-se à instância local (`127.0.0.1` / `localhost`) utilizando suas credenciais administrativas (`root`).
 4. Abra o arquivo `script_siricascudo.sql` e execute o script na íntegra.
 5. O script irá recriar a base `SiriCascudoDB`, estruturar o esquema, povoar os dados e disparar os testes de Procedures e Triggers automaticamente.
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b3296801-3342-4a55-8c21-3891475de105" alt="Execução no MySQL Workbench" width="650">
+</p>

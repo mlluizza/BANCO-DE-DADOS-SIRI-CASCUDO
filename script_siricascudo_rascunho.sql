@@ -1,12 +1,7 @@
--- ========================================================
--- BANCO DE DADOS: SiriCascudoDB
--- ========================================================
+--  SiriCascudoDB
 create database SiriCascudoDB;
 use SiriCascudoDB;
 
--- --------------------------------------------------------
--- 1. TABELA DE FUNCIONÁRIOS
--- --------------------------------------------------------
 CREATE TABLE funcionarios (
 	empregado_id INT, 
     primeiro_nome VARCHAR(50),

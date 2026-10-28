@@ -1,5 +1,11 @@
 # 🧽 SiriCascudo — Sistema de Gestão de Banco de Dados Relacional ⚓
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0fa345c1-40ae-4087-b41b-1d18652b620e" width="300" />
+</p>
+
+
 > *"Estou pronto! Estou pronto! Estou pronto!"* — Bob Esponja.
 
 ---

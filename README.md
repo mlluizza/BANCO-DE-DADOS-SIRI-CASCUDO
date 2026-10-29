@@ -79,6 +79,16 @@ Para executar a suíte de testes do **SiriCascudoDB**:
 4. Abra o arquivo `script_siricascudo.sql` e execute o script na íntegra.
 5. O script irá recriar a base `SiriCascudoDB`, estruturar o esquema, povoar os dados e disparar os testes de Procedures e Triggers automaticamente.
 
+---
+
+### 6️⃣ Diagrama Entidade Relacionamento (DER)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f6376e16-8d5b-4aea-9461-6192feae3053" width="800" alt="Diagrama ER do Siri Cascudo" />
+</p>
+
+---
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b3296801-3342-4a55-8c21-3891475de105" alt="Execução no MySQL Workbench" width="650">
